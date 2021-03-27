@@ -1,0 +1,11 @@
+p {
+    color:orangered;
+    background:black;
+    font-weight:bold;
+    text-align:center;
+    font-size:xx-large
+    /*this font is to big if i want a header*/
+}
+h1 {
+        text-shadow: 2px 2px #ff0000;
+     }
